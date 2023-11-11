@@ -1,2 +1,5 @@
 # aoigram_bot
-Telegram API.
+## Studying Telegram Api.
+Working with aiogram functions and methods.
+
+In this program I will practice the Telegram API
